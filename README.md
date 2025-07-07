@@ -1,1 +1,2 @@
 # bluesky-posts
+Los ficheros que se encuentran en este repositorio han sido creados para el estudio y desarrollo del Trabajo Fin de Máster que lleva por título "Creación de flujos de trabajo en Orange Data Mining con el conjunto de datos ´blue-sky´" (Máster Universitario en Procesamiento del Lenguaje y Aplicaciones de la Inteligencia Artifical a la Lingüística) y desarrollado por Aday Castro Rodríguez.
